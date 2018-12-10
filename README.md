@@ -27,8 +27,8 @@ Make sure the uncompressed files are under the directory: /home/USER_NAME/data/a
 
 ### 3. Run
 
-	./calicam
+	./aslam
 
 ### 4. Operation
 
-Plese refer to the Operation part of [THIS](https://drive.google.com/open?id=1T_PiYxxNShu9rh6vtca9-kar4itFgyLR0am5_G2h0-s) document.
+Plese refer to the Operation part of [**THIS**](https://drive.google.com/open?id=1T_PiYxxNShu9rh6vtca9-kar4itFgyLR0am5_G2h0-s) document.
