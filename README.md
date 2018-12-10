@@ -21,6 +21,7 @@ Make sure the uncompressed files are under the directory: /home/USER_NAME/data/a
 
 ### 3. Download Program
 
+	cd
 	git clone https://github.com/astar-ai/aslam.git
 	cd aslam
 	chmod 777 ./aslam
