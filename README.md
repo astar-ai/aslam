@@ -1,5 +1,7 @@
 # aslam: Astar SLAM Program
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 For more information see
 [https://astar.ai](https://astar.ai).
 
