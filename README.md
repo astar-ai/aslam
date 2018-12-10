@@ -1,6 +1,4 @@
-# aslam: Astar SLAM Program
-
-**Under Construction**
+# aslam (Under Construction) <!-- aslam: A*SLAM Program -->
 
 For more information see
 [https://astar.ai](https://astar.ai).
