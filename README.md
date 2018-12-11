@@ -1,4 +1,5 @@
-# aslam (Under Construction) <!-- aslam: A*SLAM Program -->
+# aslam: A\*SLAM Program
+(Under construction)
 
 For more information see
 [https://astar.ai](https://astar.ai).
