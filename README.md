@@ -13,7 +13,7 @@ Follow the steps in https://github.com/astar-ai/calicam.
 
 ### 2. Download Image Data
 
-Make sure the uncompressed files are under the directory  /home/USER_NAME/data/astar_indoor
+Make sure the uncompressed files are under the directory  /home/USER_NAME/data/aslam_indoor
 
 	cd
 	mkdir data
