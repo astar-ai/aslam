@@ -5,11 +5,15 @@ For more information see
 
 The following steps are tested and passed in Ubuntu 16.04.
 
-### 1. OpenCV Installation
+### 1. Hardware Requirements
+
+It is recommended to run A\*SLAM in a computer with 4-core, 8-thread CPU (i7-8550U or better) and 8G RAM.
+
+### 2. OpenCV Installation
 
 Follow the steps in https://github.com/astar-ai/calicam.
 
-### 2. Download Image Data
+### 3. Download Image Data
 
 Make sure the uncompressed files are under the directory  /home/USER_NAME/data/aslam_indoor
 
@@ -19,17 +23,17 @@ Make sure the uncompressed files are under the directory  /home/USER_NAME/data/a
 	wget http://astar.support/dotai/aslam_indoor.tar.gz
 	tar xvf aslam_indoor.tar.gz
 
-### 3. Download Program
+### 4. Download Program
 
 	cd
 	git clone https://github.com/astar-ai/aslam.git
 	cd aslam
 	chmod 777 ./aslam
 
-### 3. Run
+### 5. Run
 
 	./aslam
 
-### 4. Operation
+### 6. Operation
 
 Plese refer to the **Operation** part of [**THIS DOCUMENT**](https://drive.google.com/open?id=1T_PiYxxNShu9rh6vtca9-kar4itFgyLR0am5_G2h0-s).
