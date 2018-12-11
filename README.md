@@ -17,7 +17,7 @@ Make sure the uncompressed files are under the directory  /home/USER_NAME/data/a
 	mkdir data
 	cd data
 	wget http://astar.support/dotai/aslam_indoor.tar.gz
-	tar xvf astar_indoor.tar.gz
+	tar xvf aslam_indoor.tar.gz
 
 ### 3. Download Program
 
