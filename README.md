@@ -1,7 +1,5 @@
 # aslam: A\*SLAM Software
 
-## (Under construction)
-
 For more information see
 [https://astar.ai](https://astar.ai).
 
