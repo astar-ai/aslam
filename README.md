@@ -1,4 +1,4 @@
-# aslam: A\*SLAM Software
+# A\*SLAM Software
 
 For more information see
 [https://astar.ai](https://astar.ai).
