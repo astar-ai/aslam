@@ -1,4 +1,4 @@
-# aslam: A\*SLAM Program
+# aslam: A\*SLAM Software
 
 ## (Under construction)
 
