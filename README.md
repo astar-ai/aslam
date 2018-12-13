@@ -11,7 +11,7 @@ It is recommended to run A\*SLAM in a computer with 4-core, 8-thread CPU (i7-855
 
 ### 2. OpenCV Installation
 
-Follow the steps in https://github.com/astar-ai/calicam.
+Follow the steps in [CaliCam@GitHub](https://github.com/astar-ai/calicam).
 
 ### 3. Download Image Data
 
