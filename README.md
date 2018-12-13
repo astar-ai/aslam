@@ -7,7 +7,7 @@ The following steps have been tested and passed on Ubuntu 16.04.
 
 ### Note: A\*SLAM can run with ANY CaliCam stereo camera under the TRIAL mode.
 
-In TRIAL mode, the map cannot be saved to or loaded from the hard disk.
+In TRIAL mode, the map cannot be saved to or loaded from the hard drive.
 
 ### 1. Hardware Requirements
 
