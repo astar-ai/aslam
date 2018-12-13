@@ -3,13 +3,11 @@
 For more information see
 [https://astar.ai](https://astar.ai).
 
-The following steps are tested and passed in Ubuntu 16.04.
-
+The following steps have been tested and passed on Ubuntu 16.04.
 
 ### Note: A\*SLAM can run with ANY CaliCam stereo camera under the TRIAL mode.
 
 In TRIAL mode, the map cannot be saved to or loaded from the hard disk.
-
 
 ### 1. Hardware Requirements
 
