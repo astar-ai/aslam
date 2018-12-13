@@ -36,8 +36,13 @@ Make sure the uncompressed files are under the directory  /home/USER_NAME/data/a
 
 ### 5. Run
 
+To run A\*SLAM program, you need to change the name of CaliCam stereo parameter file '##-######-####_Stereo.yml' to 'Stereo.yml' first.
+
 	./aslam
 
 ### 6. Operation
 
 Plese refer to the **Operation** part of [**A\*SLAM Manual**](https://drive.google.com/open?id=1T_PiYxxNShu9rh6vtca9-kar4itFgyLR0am5_G2h0-s).
+
+### 7. A\*Localization
+
