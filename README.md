@@ -1,5 +1,7 @@
 # A\*SLAM Software
 
+### A\*SLAM can run with any CaliCam Stereo under the TRIAL mode.
+
 For more information see
 [https://astar.ai](https://astar.ai).
 
