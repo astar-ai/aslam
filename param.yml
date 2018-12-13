@@ -1,3 +1,18 @@
 %YAML:1.0
+feat_num:    1000
+confi_num:   1
+pyr_levels:  3
+port_pose:   8001
+live:        0
+foward_slam: 1
+threed_slam: 1
+slam_mode:   1
+network:     0
+track_gl:    1
+kf_dist:     0.3
+kf_angle:    10.
 data_path:   /data/aslam_indoor
+map_path:    ./map
+host:        /127.0.0.1
 model:       Stereo
+img_size:    [ 640, 480 ]
