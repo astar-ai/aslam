@@ -48,7 +48,7 @@ Plese refer to the **Operation** part of [**A\*SLAM Manual**](https://drive.goog
 
 To run A\*SLAM program in the Monocular Localization mode, you need to change the name of CaliCam monocular parameter file '##-YYMMDD-####_Mono.yml' to 'Mono.yml' first.
 
-You also need to set the following parameters in 'param.yml'.
+You also need to set the following parameters in the 'param.yml' file.
 
 	slam_mode: 0
 	model: Mono
