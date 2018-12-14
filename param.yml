@@ -1,6 +1,6 @@
 %YAML:1.0
 feat_num:    1000
-confi_num:   1
+pcl_lvl:     1
 pyr_levels:  3
 port_pose:   8001
 live:        0
