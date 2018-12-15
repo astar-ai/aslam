@@ -5,7 +5,7 @@ For more information see
 
 <p align="center">
   <img src="http://astar.support/dotai/Astar_CES2019_Poster_1.png"><br>
-  <b>SASTAR CES2019 Poster</b>
+  <b>Astar CES2019 Poster</b>
 </p>
 
 The following steps have been tested and passed on Ubuntu 16.04.
