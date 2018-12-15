@@ -4,13 +4,8 @@ For more information see
 [https://astar.ai](https://astar.ai).
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://astar.support/dotai/Astar_CES2019_Poster_1.png">
-ASTAR CES2019 Poster
+  <img src="http://astar.support/dotai/Astar_CES2019_Poster_1.png"><br>
+  <b>SASTAR CES2019 Poster</b>
 </p>
 
 The following steps have been tested and passed on Ubuntu 16.04.
