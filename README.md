@@ -3,6 +3,8 @@
 For more information see
 [https://astar.ai](https://astar.ai).
 
+![ASTAR CES2019 Poster](http://astar.support/dotai/Astar_CES2019_Poster.png)
+
 The following steps have been tested and passed on Ubuntu 16.04.
 
 ### Note: A\*SLAM can run with ANY CaliCam stereo camera under the TRIAL mode.
