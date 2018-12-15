@@ -5,7 +5,7 @@ For more information see
 
 ![ASTAR CES2019 Poster](http://astar.support/dotai/Astar_CES2019_Poster_1.png)
 
-                 ASTAR CES2019 Poster
+	ASTAR CES2019 Poster
 
 The following steps have been tested and passed on Ubuntu 16.04.
 
