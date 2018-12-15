@@ -3,11 +3,6 @@
 For more information see
 [https://astar.ai](https://astar.ai).
 
-<p align="center">
-  <img src="http://astar.support/dotai/Astar_CES2019_Poster_1.png"><br>
-  <b>Astar CES2019 Poster</b>
-</p>
-
 The following steps have been tested and passed on Ubuntu 16.04.
 
 ### Note: A\*SLAM can run with ANY CaliCam stereo camera under the TRIAL mode.
@@ -57,4 +52,9 @@ You also need to set the following parameters in the 'param.yml' file.
 
 	slam_mode: 0
 	model: Mono
+
+<p align="center">
+  <img src="http://astar.support/dotai/Astar_CES2019_Poster_1.png"><br>
+  <b>Astar CES2019 Poster</b>
+</p>
 
