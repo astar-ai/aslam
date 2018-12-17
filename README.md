@@ -5,10 +5,6 @@ For more information see
 
 The following steps have been tested and passed on Ubuntu 16.04.
 
-### Note: A\*SLAM can run with ANY CaliCam stereo camera under the TRIAL mode.
-
-In TRIAL mode, the map cannot be saved to or loaded from the hard drive.
-
 ### 1. Hardware Requirements
 
 It is recommended to run A\*SLAM in a computer with 4-core, 8-thread CPU (i7-8550U or better) and 8G RAM.
