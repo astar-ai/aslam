@@ -1,0 +1,1 @@
+g++ -L/usr/local/lib -o "aslam" aslam_base -lGL -lGLU -lX11 -lpthread -lopencv_core -lopencv_highgui -lopencv_features2d -lopencv_flann -lopencv_videoio -lopencv_imgcodecs -lopencv_imgproc -lopencv_calib3d -lopencv_xfeatures2d
