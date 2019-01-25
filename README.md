@@ -28,11 +28,12 @@ Make sure the uncompressed files are under the directory  /home/USER_NAME/data/a
 	cd
 	git clone https://github.com/astar-ai/aslam.git
 	cd aslam
-	chmod 777 ./aslam
+	chmod 777 ./link
+	./link
 
 ### 5. Run
 
-To run A\*SLAM program, you need to change the name of CaliCam stereo parameter file '##-YYMMDD-####.yml' to 'Stereo.yml' first.
+To run A\*SLAM program, you need to change the name of CaliCam stereo parameter file '##-YYMMDD-####.yml' to 'stereo.yml' first.
 
 	./aslam
 
@@ -42,12 +43,12 @@ Plese refer to the **Operation** part of [**A\*SLAM Manual**](https://drive.goog
 
 ### 7. A\*Localization
 
-To run A\*SLAM program in the Monocular A\*Localization mode, you need to change the name of CaliCam monocular parameter file '##-YYMMDD-####.yml' to 'Mono.yml' first.
+To run A\*SLAM program in the Monocular A\*Localization mode, you need to change the name of CaliCam monocular parameter file '##-YYMMDD-####.yml' to 'mono.yml' first.
 
 You also need to set the following parameters in the 'param.yml' file.
 
 	slam_mode: 0
-	model: Mono
+	model: mono
 
 ### 8. Astar CES2019 Poster
 
