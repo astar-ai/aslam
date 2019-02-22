@@ -41,9 +41,9 @@ To run A\*SLAM program, you need to change the name of CaliCam stereo parameter 
 
 Plese refer to the **Operation** part of [**A\*SLAM Manual**](https://drive.google.com/open?id=1T_PiYxxNShu9rh6vtca9-kar4itFgyLR0am5_G2h0-s).
 
-### 7. A\*Localization
+### 7. SSML: Monocualr Localization
 
-To run A\*SLAM program in the Monocular A\*Localization mode, you need to change the name of CaliCam monocular parameter file '##-YYMMDD-####.yml' to 'mono.yml' first.
+To run A\*SLAM program in the Monocular Localization mode, you need to change the name of CaliCam monocular parameter file '##-YYMMDD-####.yml' to 'mono.yml' first.
 
 You also need to set the following parameters in the 'param.yml' file.
 
