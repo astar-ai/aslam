@@ -16,3 +16,4 @@ map_path:    ./map
 host:        /127.0.0.1
 model:       stereo
 img_size:    [ 640, 480 ]
+usb_port:    0
