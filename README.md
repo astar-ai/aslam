@@ -50,9 +50,4 @@ You also need to set the following parameters in the 'param.yml' file.
 	slam_mode: 0
 	model: mono
 
-### 8. Astar CES2019 Poster
-
-<p align="center">
-  <img src="http://astar.support/dotai/Astar_CES2019_Poster_1.png">
-</p>
 
